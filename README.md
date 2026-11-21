@@ -151,3 +151,12 @@ It serves as an educational demonstration of activity monitoring and basic secur
 **Developed By:** Shagun Srivastav
 **Department:** Computer Science and Engineering  
 **Institution:** ABES Engineering College
+
+## Quick Start (Windows)
+
+1. Download the repository as ZIP.
+2. Extract the ZIP file.
+3. Open the extracted KEYGUARD folder.
+4. Double-click START_KEYGUARD.bat.
+5. Wait for the backend to start.
+6. The dashboard will open in your browser.
